@@ -1,4 +1,4 @@
-# Greetings! I am Aditi Balaji
+# 💼 My Bio
 
 I am a Data Scientist with a Master's in Data Science from Rice University and a Bachelor's in Metallurgical and Materials Engineering from IIT Madras, with a Minor in Machine Learning and AI. My work bridges applied research and production-grade systems, with experience across academia, industry, and research labs.
 
