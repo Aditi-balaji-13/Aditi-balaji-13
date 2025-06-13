@@ -6,7 +6,7 @@ I’ve built projects across domains, including:
 - 🧠 Generative AI for vision and language
 - 💹 Quantitative modeling for financial markets
 - 🔍 Retrieval-Augmented Generation (RAG) and LLM-based systems
-- 🛰️ Real-time computer vision for satellite and aerospace applications
+- 🛰️ Real-time computer vision application for satellite and aerospace applications
 - 🧪 Experimental design and marketing measurement
 - 📊 Big data processing with scalable cloud workflows
 
