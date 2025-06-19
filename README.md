@@ -1,3 +1,4 @@
+![Machine Learning](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 # 💼 My Bio
 
 I am a Data Scientist with a Master's in Data Science from Rice University and a Bachelor's in Metallurgical and Materials Engineering from IIT Madras, with a Minor in Machine Learning and AI. My work bridges applied research and production-grade systems, with experience across academia, industry, and research labs.
