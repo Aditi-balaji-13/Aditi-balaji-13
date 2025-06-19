@@ -1,9 +1,8 @@
-![Python](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
-
-![Java](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
-
-![ML](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVzaHFndTlpdGx3Y3YydzYwM2p1Njk0bWFoaGs0aW1jZ2Z6ZG9jNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fe6NAMLeTWZq3v9Nmg/giphy.gif)
-
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Python" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Java" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVzaHFndTlpdGx3Y3YydzYwM2p1Njk0bWFoaGs0aW1jZ2Z6ZG9jNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fe6NAMLeTWZq3v9Nmg/giphy.gif" alt="ML" width="40" height="40"/>
+</p>
 
 # 💼 My Bio
 
