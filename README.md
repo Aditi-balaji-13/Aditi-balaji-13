@@ -1,10 +1,10 @@
 ![Python](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
 
-![HuggingFace](https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png)
+![Java](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
 
-![AWS](https://www.google.com/imgres?q=aws%20logo%20gif%20for%20github&imgurl=https%3A%2F%2Fstrangebee.com%2Fwp-content%2Fuploads%2F2024%2F08%2FAWS-Azure2-opt.gif&imgrefurl=https%3A%2F%2Fstrangebee.com%2Fthehive-iaas-aws%2F&docid=4zW_9uVrKW-RxM&tbnid=m40zIr_moFy2FM&vet=12ahUKEwjckNmT8f2NAxVfnu4BHeHADtwQM3oECBUQAA..i&w=300&h=300&hcb=2&ved=2ahUKEwjckNmT8f2NAxVfnu4BHeHADtwQM3oECBUQAA)
+![ML](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVzaHFndTlpdGx3Y3YydzYwM2p1Njk0bWFoaGs0aW1jZ2Z6ZG9jNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fe6NAMLeTWZq3v9Nmg/giphy.gif)
 
-![Pytorch](https://www.google.com/imgres?q=pytorch%20logo%20gif%20for%20github&imgurl=https%3A%2F%2Fi.redd.it%2Flfw4i4y4ajma1.gif&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2FStableDiffusion%2Fcomments%2F11lz7t1%2Fgif_controlnet_meets_pytorch_logo%2F&docid=fciDHS93wVkR-M&tbnid=OA2HtmslSTOcrM&vet=12ahUKEwjk-pC48f2NAxW5le4BHVMQGGMQM3oECHoQAA..i&w=672&h=378&hcb=2&ved=2ahUKEwjk-pC48f2NAxW5le4BHVMQGGMQM3oECHoQAA)
+
 # 💼 My Bio
 
 I am a Data Scientist with a Master's in Data Science from Rice University and a Bachelor's in Metallurgical and Materials Engineering from IIT Madras, with a Minor in Machine Learning and AI. My work bridges applied research and production-grade systems, with experience across academia, industry, and research labs.
