@@ -1,28 +1,65 @@
 <p>
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Python" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Java" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVzaHFndTlpdGx3Y3YydzYwM2p1Njk0bWFoaGs0aW1jZ2Z6ZG9jNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fe6NAMLeTWZq3v9Nmg/giphy.gif" alt="ML" width="40" height="40"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVzaHFndTlpdGx3Y3YydzYwM2p1Njk0bWFoaGs0aW1jZ2Z6ZG9jNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fe6NAMLeTWZq3v9Nmg/giphy.gif" alt="ML" height="40"/>
 </p>
 
 # 💼 My Bio
+Data Scientist passionate about anything involving abstract maths, statistics, ML/ Gen AI applixations
 
-I am a Data Scientist with a Master's in Data Science from Rice University and a Bachelor's in Metallurgical and Materials Engineering from IIT Madras, with a Minor in Machine Learning and AI. My work bridges applied research and production-grade systems, with experience across academia, industry, and research labs.
 
-I’ve built projects across domains, including:
-- 🧠 Generative AI for vision and language
-- 💹 Quantitative modeling for financial markets
-- 🔍 Retrieval-Augmented Generation (RAG) and LLM-based systems
-- 🛰️ Real-time computer vision application for satellite and aerospace applications
-- 🧪 Experimental design and marketing measurement
-- 📊 Big data processing with scalable cloud workflows
+---
 
-While anything in data science sparks my curiosity, I’m primarily interested in roles involving:
-- Quantitative finance  
-- Generative AI (esp. vision-language)  
-- Machine learning engineering  
+## 🔭 Projects & Domains
 
-📫 Reach me at [aditi.balaji@rice.edu](mailto:aditi.balaji@rice.edu) | [LinkedIn](https://linkedin.com/in/aditibalaji) | [GitHub](https://github.com/Aditi-balaji-13)
+- 🧠 Generative AI for vision and language  
+- 💹 Quantitative modeling for financial markets  
+- 🔍 Retrieval-Augmented Generation (RAG) and LLM-based systems  
+- 🛰️ Real-time computer vision applications for satellite and aerospace
+- 🔁 Reinforcement learning for decision-making environments  
+- 🧠 Graph Neural Networks (GNNs) for spatiotemporal and scientific data   
+- 📊 Big data processing with scalable cloud workflows  
 
+---
+
+
+📫 Reach me at:
+<br>
+
+<div align="center">
+  <a href="aditibalaji13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/aditibalaji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
+---
+## 🛠️ Tech-Stack
+
+**Programming languages and Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,java,aws,c,html,git,hadoop,r,matlab" />
+</p>
+
+**Python Packages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas" />
+  <img src="https://img.shields.io/badge/HuggingFace-%23000000.svg?logo=huggingface&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/LlamaIndex-%23323330.svg?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Boosting-%2300BFFF.svg?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%230079C1.svg?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-%23000000.svg?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-%2301687C.svg?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PIL-%23ffffff.svg?logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-%23000000.svg?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-%2300B386.svg?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scipy-%230C55A5.svg?logo=scipy&logoColor=white" />
+</p>
 
 <!--
 **Aditi-balaji-13/Aditi-balaji-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
