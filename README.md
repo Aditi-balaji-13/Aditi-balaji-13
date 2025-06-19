@@ -1,4 +1,4 @@
-!(https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
+![ML](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
 # 💼 My Bio
 
 I am a Data Scientist with a Master's in Data Science from Rice University and a Bachelor's in Metallurgical and Materials Engineering from IIT Madras, with a Minor in Machine Learning and AI. My work bridges applied research and production-grade systems, with experience across academia, industry, and research labs.
