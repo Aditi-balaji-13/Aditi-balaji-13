@@ -47,18 +47,23 @@ Data Scientist passionate about anything involving abstract maths, statistics, M
 
 **Python Packages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas" />
-  <img src="https://img.shields.io/badge/HuggingFace-%23000000.svg?logo=huggingface&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/LlamaIndex-%23323330.svg?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Boosting-%2300BFFF.svg?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LlamaIndex-%23323330.svg?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-%23004894.svg?logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Boosting-%2300BFFF.svg?logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%230079C1.svg?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%230132A5.svg?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%230079C1.svg?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-%23000000.svg?logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-%2301687C.svg?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PIL-%23ffffff.svg?logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/Ollama-%23000000.svg?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-%2300B386.svg?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scipy-%230C55A5.svg?logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=white" />
 </p>
 
 <!--
