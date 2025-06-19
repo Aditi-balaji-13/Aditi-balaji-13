@@ -5,7 +5,7 @@
 </p>
 
 # 💼 My Bio
-Data Scientist passionate about anything involving abstract maths, statistics, ML/ Gen AI applixations
+Data Scientist passionate about anything involving abstract maths, statistics, ML/ Gen AI applications
 
 
 ---
