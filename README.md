@@ -37,12 +37,12 @@ Data Scientist passionate about anything involving abstract maths, statistics, M
 
 <hr>
 
----
+
 ## 🛠️ Tech-Stack
 
 **Programming languages and Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,java,aws,c,html,git,hadoop,r,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,java,aws,c,html,git,linux,r,matlab,latex, visualstudio,octave,vscode," />
 </p>
 
 **Python Packages**
