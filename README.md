@@ -12,12 +12,12 @@ Data Scientist passionate about anything involving abstract maths, statistics, M
 
 ## 🔭 Projects & Domains
 
-- 🧠 Generative AI for vision and language ![[link]](https://github.com/Aditi-balaji-13/distilgpt2_chatbot) 
-- 💹 Quantitative modeling for financial markets  ![link1,](https://github.com/Aditi-balaji-13/Financial_market_Analysis) ![link2](https://github.com/Aditi-balaji-13/Optiver_closing_price_prediction)
+- 🧠 Generative AI for vision and language [![link](https://github.com/Aditi-balaji-13/distilgpt2_chatbot)] 
+- 💹 Quantitative modeling for financial markets  [![link1,](https://github.com/Aditi-balaji-13/Financial_market_Analysis) ![link2](https://github.com/Aditi-balaji-13/Optiver_closing_price_prediction)]
 - 🔍 Retrieval-Augmented Generation (RAG) and LLM-based systems [Code Privated] 
 - 🛰️ Real-time computer vision applications for satellite and aerospace [Code Privated]
-- 🔁 Reinforcement learning for decision-making environments ![link](https://github.com/Aditi-balaji-13/Reinforcement_learning) 
-- 🧠 Graph Neural Networks (GNNs) for spatiotemporal and scientific data ![link](https://github.com/Aditi-balaji-13/GNN_based_grain_growth)  
+- 🔁 Reinforcement learning for decision-making environments [![link](https://github.com/Aditi-balaji-13/Reinforcement_learning)] 
+- 🧠 Graph Neural Networks (GNNs) for spatiotemporal and scientific data [![link](https://github.com/Aditi-balaji-13/GNN_based_grain_growth)]  
 - 📊 Big data processing with scalable cloud workflows  [![link](https://github.com/Aditi-balaji-13/Big_data)]
 
 ---
